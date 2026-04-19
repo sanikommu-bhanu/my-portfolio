@@ -181,7 +181,7 @@ export default function Hero() {
               View Projects & Demos
             </button>
             <a
-              href="/resume.pdf"
+              href="/assets/resume_updated-2.pdf"
               download
               className="btn-secondary group"
             >

@@ -124,7 +124,7 @@ export default function Navigation() {
 
               {/* Resume Button - Desktop */}
               <a
-                href="/resume.pdf"
+                href="/assets/resume_updated-2.pdf"
                 download
                 className="hidden md:inline-flex items-center gap-1.5 px-4 py-2 rounded-xl text-sm font-semibold bg-primary text-primary-foreground hover:opacity-90 active:scale-95 transition-all duration-200 shadow-lg shadow-primary/25"
               >
@@ -169,7 +169,7 @@ export default function Navigation() {
                 </motion.button>
               ))}
               <a
-                href="/resume.pdf"
+                href="/assets/resume_updated-2.pdf"
                 download
                 className="mt-2 flex items-center gap-2 px-4 py-3 rounded-xl text-sm font-semibold bg-primary/10 text-primary hover:bg-primary/20 transition-all duration-200"
               >

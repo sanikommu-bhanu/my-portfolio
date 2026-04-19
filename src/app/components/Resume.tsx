@@ -162,7 +162,7 @@ export default function Resume() {
                 </p>
 
                 <a
-                  href="/resume.pdf"
+                  href="/assets/resume_updated-2.pdf"
                   download
                   onClick={handleDownload}
                   className="btn-primary w-full justify-center text-base py-3.5 shadow-2xl shadow-primary/25 glow-primary group"
@@ -172,7 +172,7 @@ export default function Resume() {
                 </a>
 
                 <p className="mt-3 text-xs text-muted-foreground">
-                  PDF format · Updated 2024
+                  PDF format · Generated from live portfolio data
                 </p>
               </div>
             </div>
